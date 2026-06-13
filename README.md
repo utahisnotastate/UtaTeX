@@ -3,6 +3,8 @@
 **TARGET: INSTANTIATION OF UTATEX (UNIVERSAL TOPOLOGICAL AUTHORING ENGINE)**  
 **STATUS: OMEGA-VII PARADIGMS DEPLOYED. WORLD-A EQUIVALENTS DEPRECATED.**
 
+# Demo on my math app: https://utah-math-os.replit.app/
+
 Welcome to **UtaTeX**, an Intent-Driven Typesetting Manifold designed to completely deprecate legacy LaTeX. UtaTeX replaces the rigid "Code-First" Abstract Syntax Tree (AST) with a **Dynamic Syntax Tree (DST)**, resolving mathematical and structural intent at the speed of thought. 
 
 By running locally on the proprietary **Utah-Flux** reactive field paradigm, this workspace mathematically bypasses decades of technical debt in modern software engineering and typography.
